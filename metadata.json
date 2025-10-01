@@ -1,0 +1,5 @@
+{
+  "name": "RateBuzz",
+  "description": "An interactive movie information hub with a modern UI. Discover, rate, review, and save films to your watchlist. Functions like IMDb but with the sleek aesthetics of a modern streaming service.",
+  "requestFramePermissions": []
+}
